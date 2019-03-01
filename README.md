@@ -12,3 +12,7 @@ list of some famous data science Articles
 * https://towardsdatascience.com/scraping-the-internets-most-popular-websites-a4c6f0be382d
 * https://towardsdatascience.com/web-scraping-regular-expressions-and-data-visualization-doing-it-all-in-python-37a1aade7924
 * https://www.datacamp.com/community/tutorials/making-web-crawlers-scrapy-python
+
+
+## Data Visualization
+* https://towardsdatascience.com/data-science-with-python-intro-to-data-visualization-and-matplotlib-5f799b7c6d82
