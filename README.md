@@ -16,3 +16,9 @@ list of some famous data science Articles
 
 ## Data Visualization
 * https://towardsdatascience.com/data-science-with-python-intro-to-data-visualization-and-matplotlib-5f799b7c6d82
+
+## Regression
+* https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
+* https://www.r-bloggers.com/15-types-of-regression-you-should-know/
+* https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e
+* https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/
