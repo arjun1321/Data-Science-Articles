@@ -22,3 +22,5 @@ list of some famous data science Articles
 * https://www.r-bloggers.com/15-types-of-regression-you-should-know/
 * https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e
 * https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/
+* https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
+* https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b
