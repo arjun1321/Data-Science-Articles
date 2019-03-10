@@ -24,3 +24,11 @@ list of some famous data science Articles
 * https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/
 * https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
 * https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b
+
+## Support Vector Machine (SVM)
+* https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
+* http://www.robots.ox.ac.uk/~az/lectures/ml/lect2.pdf
+* https://machinelearningmastery.com/support-vector-machines-for-machine-learning/
+* http://www.cs.columbia.edu/~kathy/cs4701/documents/jason_svm_tutorial.pdf
+* http://www.statsoft.com/Textbook/Support-Vector-Machines
+* https://www.youtube.com/watch?v=_PwhiWxHK8o
