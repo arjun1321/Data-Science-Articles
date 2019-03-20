@@ -1,6 +1,9 @@
 # Data-Science-Articles
 list of some famous data science Articles
 
+## A gallery of interesting jupyter notebooks
+* https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#machine-learning-statistics-and-probability
+
 ## Cleaning Text Data
 * https://machinelearningmastery.com/clean-text-machine-learning-python/
 * https://towardsdatascience.com/pre-processing-in-natural-language-machine-learning-898a84b8bd47
@@ -40,3 +43,17 @@ list of some famous data science Articles
 * https://towardsdatascience.com/supervised-machine-learning-classification-5e685fe18a6d
 * https://codeburst.io/supervised-machine-learning-for-dummies-part-1-overview-15c18f2269ba
 * https://www.datascience.com/blog/supervised-learning-python
+
+## Stock price prediction
+* https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/
+
+## Ensemble learning - Bias, Variance tradeoff
+* https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/
+* https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/
+* https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229
+* https://www.youtube.com/watch?v=2Mg8QD0F1dQ
+* https://www.youtube.com/watch?v=GM3CDQfQ4sw
+* https://www.analyticsindiamag.com/primer-ensemble-learning-bagging-boosting
+* http://quantdare.com/dream-team-combining-classifiers-2
+* https://hackernoon.com/boosting-algorithms-adaboost-gradient-boosting-and-xgboost-f74991cad38c
+* http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice
