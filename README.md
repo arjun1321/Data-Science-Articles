@@ -4,6 +4,13 @@ list of some famous data science Articles
 ## A gallery of interesting jupyter notebooks
 * https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#machine-learning-statistics-and-probability
 
+## Machine learning with no code
+* https://uber.github.io/ludwig/
+* https://azure.microsoft.com/en-us/services/machine-learning-studio/
+* https://www.datarobot.com/
+* https://deepcognition.ai/
+* https://github.com/llSourcell/ludwig
+
 ## Cleaning Text Data
 * https://machinelearningmastery.com/clean-text-machine-learning-python/
 * https://towardsdatascience.com/pre-processing-in-natural-language-machine-learning-898a84b8bd47
