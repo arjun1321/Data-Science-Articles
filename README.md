@@ -11,6 +11,9 @@ list of some famous data science Articles
 * https://deepcognition.ai/
 * https://github.com/llSourcell/ludwig
 
+## Kaggle competitions (How to start)
+* https://medium.freecodecamp.org/what-i-learned-from-kaggle-contests-d3123e17a36b
+
 ## Pandas cheat sheet
 * http://pandas.pydata.org/pandas-docs/version/0.17.0/10min.html#minutes-to-pandas
 
@@ -75,3 +78,9 @@ list of some famous data science Articles
 * https://www.kaggle.com/karelrv/nyct-from-a-to-z-with-xgboost-tutorial
 * https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db
 * https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+
+## Unsupervised Learning
+* https://blog.algorithmia.com/introduction-to-unsupervised-learning/
+* http://deeplearning.stanford.edu/tutorial/
+* https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03
+* https://medium.com/machine-learning-for-humans/unsupervised-learning-f45587588294
