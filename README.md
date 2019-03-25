@@ -11,6 +11,9 @@ list of some famous data science Articles
 * https://deepcognition.ai/
 * https://github.com/llSourcell/ludwig
 
+## Pandas cheat sheet
+* http://pandas.pydata.org/pandas-docs/version/0.17.0/10min.html#minutes-to-pandas
+
 ## Cleaning Text Data
 * https://machinelearningmastery.com/clean-text-machine-learning-python/
 * https://towardsdatascience.com/pre-processing-in-natural-language-machine-learning-898a84b8bd47
@@ -64,3 +67,11 @@ list of some famous data science Articles
 * http://quantdare.com/dream-team-combining-classifiers-2
 * https://hackernoon.com/boosting-algorithms-adaboost-gradient-boosting-and-xgboost-f74991cad38c
 * http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice
+
+## XGBoost (Xtreme Gradient Boosting)
+* https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/
+* https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
+* https://machinelearningmastery.com/xgboost-python-mini-course/
+* https://www.kaggle.com/karelrv/nyct-from-a-to-z-with-xgboost-tutorial
+* https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db
+* https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
