@@ -84,3 +84,14 @@ list of some famous data science Articles
 * http://deeplearning.stanford.edu/tutorial/
 * https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03
 * https://medium.com/machine-learning-for-humans/unsupervised-learning-f45587588294
+
+## Anomaly Detection
+* https://www.datascience.com/blog/python-anomaly-detection
+* https://towardsdatascience.com/how-to-use-machine-learning-for-anomaly-detection-and-condition-monitoring-6742f82900d7?gi=725dbcc5642b
+
+## Usecases for K-Means clustering
+* https://towardsdatascience.com/clustering-algorithms-for-customer-segmentation-af637c6830ac
+* https://scikit-learn.org/stable/auto_examples/text/plot_document_clustering.html#sphx-glr-auto-examples-text-plot-document-clustering-py
+* https://towardsdatascience.com/kmeans-clustering-for-classification-74b992405d0a
+* https://scikit-learn.org/stable/auto_examples/cluster/plot_color_quantization.html#sphx-glr-auto-examples-cluster-plot-color-quantization-py
+
