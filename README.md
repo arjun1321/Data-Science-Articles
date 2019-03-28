@@ -84,14 +84,23 @@ list of some famous data science Articles
 * http://deeplearning.stanford.edu/tutorial/
 * https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03
 * https://medium.com/machine-learning-for-humans/unsupervised-learning-f45587588294
+* https://blog.algorithmia.com/introduction-to-unsupervised-learning/
 
 ## Anomaly Detection
 * https://www.datascience.com/blog/python-anomaly-detection
 * https://towardsdatascience.com/how-to-use-machine-learning-for-anomaly-detection-and-condition-monitoring-6742f82900d7?gi=725dbcc5642b
 
-## Usecases for K-Means clustering
+## K-Means clustering
 * https://towardsdatascience.com/clustering-algorithms-for-customer-segmentation-af637c6830ac
 * https://scikit-learn.org/stable/auto_examples/text/plot_document_clustering.html#sphx-glr-auto-examples-text-plot-document-clustering-py
 * https://towardsdatascience.com/kmeans-clustering-for-classification-74b992405d0a
 * https://scikit-learn.org/stable/auto_examples/cluster/plot_color_quantization.html#sphx-glr-auto-examples-cluster-plot-color-quantization-py
+* https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/
+
+## Topic Modeling - Latent Dirichlet Allocation (LDA)
+* https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+
+## Hierarchical Clustering
+* https://stackabuse.com/hierarchical-clustering-with-python-and-scikit-learn/
+* https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/
 
